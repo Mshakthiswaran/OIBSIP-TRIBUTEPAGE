@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:black;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color:white;
+    font-family: bromello;
+    position: relative;
+    left: -150px;
+    top: 150px;
+    font-size: 45px;
+    
+}
+
+main {
+    padding: 20px;
+    background-color: #786f6f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#intro p {
+    margin-bottom: 20px;
+}
+
+#achievements {
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+}
+
+footer p {
+    font-style: italic;
+    color: #666;
+}
+
+#images {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#images img {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: inset 5px 5px 12px rgba(147, 128, 186, 0.16),
+                      5px 5px 12px rgb(65, 60, 60) ;
+    
+}
+.steve{
+    border-radius: 10px;
+    position: relative;
+    top: -30px;
+    left: 430px;
+}
+
+#Jobs{
+    font-size: 14px;
+    position:relative;
+    bottom: 10px;
+
+}
